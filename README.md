@@ -5,6 +5,7 @@ real and fake images, then it implies that the fake images are strong fakes. Oth
 classes from the ML algorithm's perspective.
 
 Dataset - 
+
 The dataset used for this project is images taken from the Mendeley data repository. Chest X-ray images (anteriorposterior) were selected from retrospective cohorts of pediatric patients one to five years old
 from Guangzhou Women and Children’s Medical Center, Guangzhou. 1300 normal chest x-ray images and 2000 pneumonic chest x-ray images are downloaded. 500 real images of each category
 were used to generate 1300 and 2000 synthetic normal and pneumonic chest x-ray images respectively. The number of fake and real images is equal in number to eliminate any bias while
